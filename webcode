@@ -1,9 +1,3 @@
 Welcome to my website
 <br />
-<pre>
-<?php
-
-print `ifconfig`;
-
-?>
-</pre>
+<img src='http://d2jgsykdddtdri.cloudfront.net/jpatan.jpg',height='200',width='200'/>
